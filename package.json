@@ -1,6 +1,6 @@
 {
   "name": "gatsby-transformer-plaintext",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Gatsby transformer plugin for plain text files",
   "main": "index.js",
   "repository": "https://github.com/sdorra/gatsby-transformer-plaintext",
@@ -17,7 +17,7 @@
     "text"
   ],
   "peerDependencies": {
-    "gatsby": "^3.0.0"
+    "gatsby": "^5.0.0"
   },
   "dependencies": {
     "@babel/runtime": "^7.13.10"
